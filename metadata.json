@@ -1,0 +1,6 @@
+{
+  "name": "PARSCLOUD VPN",
+  "description": "Premium, modern, responsive VPN website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
